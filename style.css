@@ -1,0 +1,98 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+/* body{
+    margin:0 auto; 
+    text-align:center;
+} */
+.container{
+    width:970px;
+    height:100%;
+    background-color:#123556;
+    margin: 0px auto;
+    padding: 5px;
+    position:absolute;
+}
+.header{
+ width:950px;
+ position:relative;
+ height:8%;
+ background-color: #d72638;
+ margin:10px; 
+ border-radius:10px;
+ color:#c9c6c6;
+}
+
+.navigation{
+ position:relative;
+ height: 35%;
+ width: 200px;
+ background-color: #087e8b;
+ display:inline-block;
+ margin:11px;
+ vertical-align:top;
+ border-radius:10px;
+ overflow:auto;
+}
+.main_content{
+ position:relative;
+ height: 77%;
+ width: 720px;
+ background-color: black;
+ display:inline-block;
+ margin:12px;
+ border-radius:10px;
+ color:#c9c6c6;
+ overflow:auto;
+}
+
+.advertisement{
+ position:relative;
+ height: 6%;
+ width: 950px;
+ background-color: #5c6672;
+ display:inline-block;
+ margin:10px;
+ border-radius:10px;
+ color:#c9c6c6;
+}
+.highligt{
+ color:#5151ef;
+}
+.content_list{
+    margin:20px 10px 10px 30px;
+}
+.content_list_point{
+    margin:10px 0 10px 0;
+}
+a{
+    color:#00BCD4
+}
+.content_p{
+    margin:10px;
+}
+.content_title{
+    margin:10px;
+}
+.headerTitle{
+   color:#c9c6c6;
+   margin:10px;
+   padding-top:15px;
+   padding-left:15px;
+}
+.home{
+    margin:10px 0px 0 15px;
+}
+.menu{
+    margin:0px 5px 5px 30px;
+}
+.second_menu{
+    margin:0px 5px 5px 30px;
+    font-size:smaller
+}
+.footer_title{
+   padding-top:15px;
+   padding-left:15px;
+}
